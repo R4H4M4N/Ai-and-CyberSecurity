@@ -1,1 +1,3 @@
 This is the target model
+downlaod the target model file from the link bellow:
+https://uowmailedu-my.sharepoint.com/personal/wzong_uow_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwzong%5Fuow%5Fedu%5Fau%2FDocuments%2FUOWTeaching%2FCSIT375%5F975%2Fpretrained%5Fmodels%2Fassignment%5F1%5Ftarget%5Fmodel%2Ezip&parent=%2Fpersonal%2Fwzong%5Fuow%5Fedu%5Fau%2FDocuments%2FUOWTeaching%2FCSIT375%5F975%2Fpretrained%5Fmodels&ga=1
